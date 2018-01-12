@@ -1,0 +1,1 @@
+## Apple script for Safari with xGesture## Supporting function```close_tab2the_right.scptgo_back.scptgo_forward_by_keycode.scptloop_tab.scptnext_page.scptnext_tab.scptpreview_tab.scpt```# Thanks* [xGesture](http://briankendall.net/xGestures/)
